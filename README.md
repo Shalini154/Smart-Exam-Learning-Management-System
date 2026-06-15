@@ -1,4 +1,4 @@
-"C:\Users\shalini kumari\OneDrive\Pictures\Screenshots\admin dashboard.png"
+
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
