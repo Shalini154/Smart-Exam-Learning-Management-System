@@ -1,4 +1,102 @@
 
+# Smart Exam Learning Management System
+
+The Smart Exam Learning Management System is a web-based platform designed to conduct secure online examinations, monitor students during exams, and automatically generate results. The system provides separate dashboards for administrators and students, making exam management efficient, transparent, and user-friendly.
+
+## Features
+
+* Secure Student Registration and Login
+* Admin Dashboard for Exam Management
+* Student Dashboard for Exam Participation
+* Online Examination System
+* AI-Based Face Detection Monitoring
+* Automatic Result Generation
+* Performance Tracking and Analytics
+* User-Friendly Interface
+* Secure Authentication and Access Control
+
+## Technologies Used
+
+* Next.js
+* React.js
+* JavaScript
+* HTML
+* CSS
+* MongoDB
+* AI-Based Face Detection
+* Git & GitHub
+
+## System Modules
+
+### Admin Module
+
+* Admin Login
+* Create and Manage Exams
+* Add and Update Questions
+* Monitor Student Activity
+* View Results and Reports
+
+### Student Module
+
+* Registration and Login
+* View Available Exams
+* Attempt Online Examinations
+* View Results and Performance
+
+### AI Monitoring Module
+
+* Real-Time Face Detection
+* Student Verification
+* Monitoring During Examination
+* Enhanced Exam Security
+
+## Project Screenshots
+
+### Student Dashboard
+
+![Student Dashboard](student-dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](admin-dashboard.png)
+
+### Face Detection Module
+
+![Face Detection](face-detection.png)
+
+### Result Page
+
+![Result](result.png)
+
+## Project Workflow
+
+1. Student Registration/Login
+2. Exam Selection
+3. Start Examination
+4. AI Face Detection Monitoring
+5. Answer Submission
+6. Automatic Evaluation
+7. Result Generation
+
+## Advantages
+
+* Reduces Manual Effort
+* Secure Online Examination Environment
+* Automated Result Processing
+* Real-Time Monitoring
+* Easy Exam Management
+* Improved Learning Experience
+
+## Future Enhancements
+
+* Eye Tracking
+* Voice Monitoring
+* Tab Switching Detection
+* Mobile Application Support
+* Advanced AI Proctoring
+* Detailed Performance Analytics
+
+
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -31,11 +129,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Shalini Kumari**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Smart-Exam-Learning-Management-System
-The Smart Exam &amp; Learning Management System is a web-based platform designed for online examinations, performance evaluation, and learning improvement. It provides secure exam management, analytics, recommendations, structured question handling, and student performance tracking with admin and student dashboards
+Developed as an academic project to provide a secure and intelligent online examination and learning management platform.
